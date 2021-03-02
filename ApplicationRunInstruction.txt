@@ -1,0 +1,23 @@
+#Application config:
+ #maven build
+ #NoSql implemented with Mongodb
+ #SWAGGER integrated for API testing
+ #explicit locking mechanism implemented for transaction 
+
+
+
+
+#how to run this application:
+$usr:cd ~/Falcon
+$usr:mvn spring-boot:run
+
+#SWAGGER URL : http://localhost:2020/swagger-ui.html
+
+
+
+
+
+
+
+
+
